@@ -1,2 +1,1 @@
-# B.E-Project
-B.E Project
+Iot Based Smart Biometric Attendance System
